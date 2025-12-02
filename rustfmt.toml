@@ -1,0 +1,5 @@
+style_edition = "2024"
+hard_tabs = false
+reorder_imports = true
+reorder_modules = true
+newline_style = "Unix"
